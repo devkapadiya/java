@@ -6,11 +6,12 @@ public class dollartorupees {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner sc=new Scanner(System.in);
+		Scanner s=new Scanner(System.in);
 		System.out.println("Enter the amount in dollar=>");
-		int d=sc.nextInt();
+		int d=s.nextInt();
 		System.out.println("dollar into ruppes=>"+(d*72));
-		System.out.println("dollar into ruppes=>"+(d*72));
+	
+		
 
 
 	}
