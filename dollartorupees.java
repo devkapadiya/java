@@ -10,6 +10,8 @@ public class dollartorupees {
 		System.out.println("Enter the amount in dollar=>");
 		int d=sc.nextInt();
 		System.out.println("dollar into ruppes=>"+(d*72));
+		System.out.println("dollar into ruppes=>"+(d*72));
+
 
 	}
 
